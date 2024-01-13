@@ -33,7 +33,7 @@ body{
     font-family:'Roboto',sans-serif;
     font-size:1em;
     line-height:1.5em;
-    margin: auto auto;
+    margin: auto -20px;
     width: 1000px;
 }
 
